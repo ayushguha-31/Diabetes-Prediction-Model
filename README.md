@@ -13,3 +13,5 @@ Implemented three different machine learning algorithms to build predictive mode
 Utilized Grid Search for hyperparameter tuning to optimize the model parameters. This step involved systematically testing different combinations of parameters to find the best-performing model. Model Performance:
 
 The optimized models were evaluated for their accuracy in diagnosing diabetes. The best model achieved an accuracy of 75%, indicating a reliable prediction capability. This project demonstrates the application of machine learning techniques in the medical field, particularly for the prediction of diabetes. It highlights the importance of data preprocessing, exploratory analysis, and model optimization in building effective predictive models.
+
+## Streamlit Link : https://diabetes-prediction-model-ayush.streamlit.app/
